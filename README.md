@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
 
-- ⚡ Fun fact **I made career transition to the programming area and I feel fulfilled, previously I worked for 11 years as a Technician in Industrial Mechanical Maintenance, in large companies in the Steel and Food Industry sectors, in this career I developed several interpersonal and I'm grateful for that**
+- ⚡ Fun fact **I made career transition to the programming area and I feel fulfilled, previously I worked for 11 years as a Technician in Industrial Mechanical Maintenance, in large companies in the Steel and Food Industry sectors, in this career I developed several interpersonal skills and I'm grateful for that**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
