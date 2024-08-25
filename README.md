@@ -2,7 +2,7 @@
 
 <p align="left" style="background:yellow"> </p>
 
-- 🔥  My name is Lucas Fernades, get to know a little about my skills, competencies, qualifications and experiences through my portfolio
+- 🔥  My name is Lucas Fernandes, get to know a little about my skills, competencies, qualifications and experiences through my portfolio
 
 - 🔭 I'm Full stack Junior Developer and i'm looking for challenges where I can add value by working as a team.
 
