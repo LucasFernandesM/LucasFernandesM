@@ -4,7 +4,7 @@
 
 - 🔥  My name is Lucas Fernandes, get to know a little about my skills, competencies, qualifications and experiences through my portfolio
 
-- 🔭 I'm Full stack Junior Developer and i'm looking for challenges where I can add value by working as a team.
+- 🔭 I'm Full stack Developer and i'm looking for challenges where I can add value by working as a team.
 
 -    I study at [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBotwEZNl5qFTLYQKZQOFfSQAcQEAZgIagpAhYfsdJyl0rZXIV12v9I0aAiyKEALw_wcB)
 
