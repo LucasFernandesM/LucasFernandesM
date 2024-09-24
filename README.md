@@ -6,8 +6,6 @@
 
 - 🔭 I'm Full stack Developer and i'm looking for challenges where I can add value by working as a team.
 
--    I study at [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBotwEZNl5qFTLYQKZQOFfSQAcQEAZgIagpAhYfsdJyl0rZXIV12v9I0aAiyKEALw_wcB)
-
 - ⚡ Fun fact **I made a career transition to the programming area and I feel motivated with all the learning opportunities I will have ahead of me, previously I worked for 11 years as a Technician in Industrial Mechanical Maintenance, in large companies in the Steel and Food Industry sectors, in this career I developed several interpersonal skills and I consider good communication as a professional value**
 
 -   View the technologies I use most below
